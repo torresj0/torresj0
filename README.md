@@ -7,7 +7,7 @@ SRE | Cloud
 A year of experience with web development with HTML, CSS, JS and PHP. Around 8 months of experience with Python, Go, Linux, Docker, AWS/AZURE/GCP, recently studying Oracle OCI.
 
 * 🌍  I'm based in Osasco, BR.
-* 🖥️  See my portfolio at [Github](http://github.com/torresj0/torresj0)
+* 🖥️  See my portfolio at [Github](https://torreshost.blob.core.windows.net/meusite/home.html)
 * ✉️  You can contact me at [contato.torresjoao@gmail.com](mailto:contato.torresjoao@gmail.com)
 * 🚀  I'm currently working on [MyPortfolio](http://#)
 * 🧠  I'm learning Ansible, Terraform and Kubernetes
